@@ -1,0 +1,1 @@
+<?php /**PATH /var/www/html/Entrada/resources/views/admin/layout/sidebar.blade.php ENDPATH**/ ?>

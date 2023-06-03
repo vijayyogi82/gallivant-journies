@@ -1,0 +1,1 @@
+grdgrf<?php /**PATH /var/www/html/Entrada/resources/views/hbc.blade.php ENDPATH**/ ?>
